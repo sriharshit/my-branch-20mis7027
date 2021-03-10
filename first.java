@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Main{
 public static void main(String args[]){
-Systrm.out.println("hello world");
+System.out.println("hello world");
+system.out.ptintln("hi");
 }
 }
